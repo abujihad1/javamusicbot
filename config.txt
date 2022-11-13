@@ -1,4 +1,4 @@
-token=MTA0MTMxOTcyNzkxNTU5Nzg4NQ.GMNczV.-vDQy8GzoXdwPHDAKXf294_AVPyr99rPI2mGTg
+token=MTA0MTMyODQ3ODMwNzUwMDE4NQ.G-ZQ-l.gLWbDt4ZHtkJtebbMi16Mvy2sthXa0AstBQg7s
 owner=780428095898910732
 prefix=mr
 stayinchannel=true
